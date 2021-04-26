@@ -1,0 +1,230 @@
+ .Home {
+    background: url("https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1049&q=80" ) no-repeat ;
+     background-size: cover;
+    }
+
+   
+
+   #website {
+    position: absolute;
+    top: 5%;
+    left: 3%;
+    }
+    
+   li {
+        display: inline-block;
+    }
+    
+   li a {
+        color:black;
+        font-family: sans-serif;
+        font-size: 25px;
+        padding: 25px;
+    }
+ #divbegain{
+    
+    margin-top: 170px;
+    margin-left: 300px;
+    width: 800px; 
+    height:350px;
+    border-radius: 2px 2px 5px 5px;
+    background: rgba(175, 92, 19, 0.575);
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.3);
+
+ }
+   
+ #begain1{
+ margin-top: 50px;
+ margin-left: 6%;
+ font-size: 100px;
+}
+#begain2{
+    margin-left: 30%;
+    font-size: 100px;
+}
+   
+ 
+ #learn{
+        padding: 10px;
+    }
+    #head1{
+        float: left;
+        margin-top: 70px;  
+        margin-left: 30px;
+    }  
+    #webpage {
+      margin-top: 40px;  
+     float:right;
+  
+      }
+ .style{
+     margin-block-end: 10px;
+     height:140px;
+     background-color:rgba(175, 92, 19);
+    border-style:groove;
+    color: white;
+ }
+ #section1{
+     margin: 40px 10px;
+     margin-right: 100px;
+     border-style: solid;
+     border-width:6px;
+     border-color: rgba(175, 92, 19);
+     font-size: 25px;
+     padding: 10px;
+    }
+    
+  #head1-section {
+       background-color: rgba(175, 92, 19);
+       color: white;
+   } 
+   #head2-section {
+    background-color: rgba(241, 148, 9, 0.603);
+    color: white;
+} 
+   #tags1{
+       background-color:#dfe6e9;
+       width: 30%;
+       height: 50%;
+       font-size: 20px;
+       line-height:50px ;
+       padding: 10px;
+   }
+
+      #underbox {
+       
+     font-size: x-large;
+      padding: 10px;
+      }
+   
+      #tags2{
+        background-color:#dfe6e9;
+        width: 40%;
+        height: 15%;
+        font-size: 20px;
+        line-height:50px ;
+        padding: 10px;
+    }
+    #tags3{
+        background-color:#dfe6e9;
+        width: 30%;
+        height: 35%;
+        font-size: 20px;
+        line-height:50px ;
+        padding: 10px;
+    }
+    #tags4{
+        background-color:#dfe6e9;
+        width: 40%;
+        height: 5%;
+        font-size: 20px;
+        line-height:50px ;
+        padding: 10px;
+    }
+    
+
+ .log-in{
+
+    background: url("https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1049&q=80") no-repeat;
+    background-size: cover;
+    
+    
+ }
+ .out-div{
+    margin-top: 130px;
+    margin-left: 300px;
+    width:350px; 
+    height:350px;
+    border-radius: 2px 2px 5px 5px;
+    background: rgba(175, 92, 19, 0.575);
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.3);
+   
+
+ }
+#username{
+    padding: 10px;
+    
+    margin: 5px 50px ;
+ background: rgba(241, 148, 9, 0.342);
+  border : 2px solid white;
+  margin-top: 40px;
+ 
+  font-family: serif;
+  font-size:16px;
+}
+#password{
+    padding: 10px;
+    margin: 5px 50px;
+    margin-top: 10px;
+    
+    background:  rgba(241, 148, 9, 0.342);
+  border : 2px solid white;
+  font-family: serif;
+  font-size:16px;
+}
+  
+
+#log-in
+{
+width:200px; 
+height:35px;
+background:#fff;
+border : 2px solid rgb(14, 13, 13);
+color: #1b0205; 
+font-size:16px; 
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding:3px;
+margin: 5px 50px;
+}
+#header{
+    margin: 10px 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:1000px;
+    font-size: 40px;
+    color: black;
+    padding-top: 20px;
+}
+
+::-webkit-input-placeholder
+{
+color: rgba(255,255,255,100);
+}
+#write{
+   
+    margin-top: 30px;
+}
+.forgetpassword{
+    margin-left: 10px;
+    font-weight: 600;
+    color:blue;
+}
+
+.log-in-pargraph{
+    position: absolute;
+}
+
+#connect-us{
+    margin-top: 100px;
+    float: inline-end;
+    height: 17%;
+    width: 100%;
+    background:rgba(175, 92, 19, 0.37); ;
+}
+#logo{
+    margin-top: 2%;
+    margin-left: 40px;
+    width: 30px;
+    height: 30px;
+}
+#facebook{
+    font-size: 30px;
+  
+}
+#instagram{
+    font-size: 30px;
+}
+
+#gmail{
+    margin-left: 20px;
+    font-size: 30px;
+}

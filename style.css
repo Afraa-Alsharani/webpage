@@ -16,8 +16,8 @@
     }
     
    li a {
-        color:black;
-        font-family: sans-serif;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
         font-size: 25px;
         padding: 25px;
     }
@@ -218,13 +218,16 @@ color: rgba(255,255,255,100);
 }
 #facebook{
     font-size: 30px;
+    color: black;
   
 }
 #instagram{
     font-size: 30px;
+    color: black;
 }
 
 #gmail{
     margin-left: 20px;
     font-size: 30px;
+    color: black;
 }
